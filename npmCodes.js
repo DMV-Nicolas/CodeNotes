@@ -1,0 +1,1 @@
+'npm list -g -depth 0' // Listar modulos globales instalados
