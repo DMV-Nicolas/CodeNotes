@@ -10,6 +10,7 @@
 
 'git branch' // Ver la rama actual
 'git checkout -b RAMA' // Crear nueva rama
+'git checkout RAMA' // Cambiar de rama
 
 'git restore --staged ARCHIVO' // Remover de la etapa de stage
 'git restore ARCHIVO' // Restaurar un archivo al original
