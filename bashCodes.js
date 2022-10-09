@@ -1,1 +1,1 @@
-// Codigos de la bash
+'neofetch' // Mostrar info de la computadora

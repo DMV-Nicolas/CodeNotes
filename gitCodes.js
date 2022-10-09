@@ -1,4 +1,5 @@
 'git status' // Ver el estado de los archivos
+'git status -s' // Forma minimalista de 'git status'
 'git log' // Listar todos los commits realizados
 
 'git init' // Inicializar repositorio
