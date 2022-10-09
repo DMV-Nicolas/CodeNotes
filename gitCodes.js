@@ -10,12 +10,14 @@
 'git add ARCHIVOS' // Agregar archivos al stage
 'git commit -m MENSAJE' // Comprometer los archivos del stage
 'git remote add origin URL' // Indicar donde se compromete nuestro codigo
-'git push -u origin main' // Subir y crear rama en el servidor
+'git push -u origin main' // Subir cambios y crear rama en el servidor
+'git push' // Subir cambios en el servidor
 
 // Ramas
 'git branch' // Ver la rama actual
 'git checkout -b RAMA' // Crear nueva rama
 'git checkout RAMA' // Cambiar de rama
+'git merge RAMA' // Desde master agrega los cambios de la rama
 
 // Restaurar y modificar archivos
 'git restore --staged ARCHIVO' // Remover de la etapa de stage
