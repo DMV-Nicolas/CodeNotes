@@ -1,6 +1,8 @@
 'git status' // Ver el estado de los archivos
 'git status -s' // Forma minimalista de 'git status'
+'git diff' // Visualizar los cambios de los archivos
 'git log' // Listar todos los commits realizados
+'git log --oneline' // Forma minimalista de 'git log'
 
 'git init' // Inicializar repositorio
 'git add ARCHIVOS' // Agregar archivos al stage
